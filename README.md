@@ -2,13 +2,12 @@
 I want to be a front-end engineer. <br>
 I love any cute animals, especially rabbits.
 
-### 🏫 Learning
-I’m currently studying in alphacamp
 
 ### 📌 That I know and use
 * HTML
 * CSS
 * JavaScript
+* React
 
 ### ✨ Stats Card
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=violet120&show_icons=true&theme=dracula)
